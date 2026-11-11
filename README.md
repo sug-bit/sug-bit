@@ -1,5 +1,5 @@
 # Gustavo-Bernardo-Victorino-Batista
-<h1 align="center">Gustavo Victorino (Sug-bit)</h1>
+
 <h3 align="center">Estudante de ADS | Desenvolvedor Júnior em Formação (C# / .NET)</h3>
 
 <p align="center">
