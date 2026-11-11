@@ -25,16 +25,12 @@ Minha bagagem como Técnico de Enfermagem me proporcionou uma base sólida em **
 </p>
 
 ### 📌 Projetos em Destaque
-*(Aqui estão os projetos do seu GitHub)*
+
 
 - **[Painel do Dono](https://github.com/sug-bit/Painel-do-Dono)**: Dashboard financeiro completo com ETL automatizado, banco de dados SQLite, gráficos interativos com Plotly e um consultor integrado com a IA do Google Gemini.
 - **[Sistema de Triagem](https://github.com/sug-bit/sistema-triagem-python)**: Sistema automatizado de triagem desenvolvido em Python.
 - **[Modelo de Site Gamer](https://github.com/sug-bit/modelo-de-site-gamer)**: Interface web responsiva construída com HTML5 e CSS3.
 
-### 📊 Minhas Estatísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sug-bit&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
 
 ---
 *"A tecnologia transforma vidas. E a disciplina de quem salva vidas transforma a tecnologia."*
